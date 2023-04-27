@@ -9,8 +9,8 @@
 <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=BDECC6"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=BDECC6"/>
 </p>
-  <img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipevieira27&theme=merko&include_all_commits=true&count_private=true&show_icons=true"/>
-  <img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipevieira27&layout=compact&langs_count=16&theme=merko"/>
+  <img height="130px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipevieira27&theme=merko&include_all_commits=true&count_private=true&show_icons=true"/>
+  <img height="130px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipevieira27&layout=compact&langs_count=16&theme=merko"/>
 </div>
 
   
